@@ -3,9 +3,7 @@
 
 }
 
-#kitty-2 {
 
-}
 
 #basket {
   position: absolute;
@@ -15,7 +13,9 @@
 }
 
 /* Select the image with id of kitty-2 */
+#kitty-2 {
 
+}
 /*__write_selector_here__*/ {
   position: absolute;
   z-index: 2;
